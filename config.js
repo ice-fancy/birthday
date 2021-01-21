@@ -12,7 +12,7 @@ var config = {
         "愿你的纯真与经历无关",
         "沧海桑田后依旧乘风破浪",
         "尘埃落定后依旧炙热欢畅",
-        “Happy Birthday",
+        “Happy birthday",
         "爱你哟～",
     ],
     /**
